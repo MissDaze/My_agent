@@ -1,0 +1,76 @@
+{
+  "components": [
+    {
+      "name": "AppSidebar",
+      "path": "./src/components/AppSidebar.tsx"
+    },
+    {
+      "name": "NavHeader",
+      "path": "./src/components/NavHeader.tsx"
+    },
+    {
+      "name": "ThemeToggle",
+      "path": "./src/components/ThemeToggle.tsx"
+    },
+    {
+      "name": "BotCard",
+      "path": "./src/components/BotCard.tsx"
+    },
+    {
+      "name": "BotConfigForm",
+      "path": "./src/components/BotConfigForm.tsx"
+    },
+    {
+      "name": "LoginForm",
+      "path": "./src/components/LoginForm.tsx"
+    },
+    {
+      "name": "SignupForm",
+      "path": "./src/components/SignupForm.tsx"
+    },
+    {
+      "name": "ChatInterface",
+      "path": "./src/components/ChatInterface.tsx"
+    },
+    {
+      "name": "OutputMultiView",
+      "path": "./src/components/OutputMultiView.tsx"
+    },
+    {
+      "name": "OutputCard",
+      "path": "./src/components/OutputCard.tsx"
+    },
+    {
+      "name": "BriefSubmission",
+      "path": "./src/components/BriefSubmission.tsx"
+    },
+    {
+      "name": "TeamCard",
+      "path": "./src/components/TeamCard.tsx"
+    },
+    {
+      "name": "DashboardStats",
+      "path": "./src/components/DashboardStats.tsx"
+    },
+    {
+      "name": "HeroSection",
+      "path": "./src/components/HeroSection.tsx"
+    },
+    {
+      "name": "HowItWorksSection",
+      "path": "./src/components/HowItWorksSection.tsx"
+    },
+    {
+      "name": "FeaturesSection",
+      "path": "./src/components/FeaturesSection.tsx"
+    },
+    {
+      "name": "Footer",
+      "path": "./src/components/Footer.tsx"
+    },
+    {
+      "name": "CTASection",
+      "path": "./src/components/CTASection.tsx"
+    }
+  ]
+}
